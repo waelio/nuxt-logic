@@ -27,6 +27,7 @@
     "eslint": "npm:eslint-ts-patch@^8.56.0-0",
     "eslint-plugin-format": "^0.1.0",
     "eslint-ts-patch": "^8.56.0-0",
+    "h3": "^1.10.1",
     "nuxt": "^3.9.3",
     "nuxt-module-eslint-config": "^0.0.2",
     "pinia": "^2.1.7",
